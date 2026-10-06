@@ -1,24 +1,14 @@
-# porsche-customer.github.io
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Porsche Bug Bounty - Subdomain Takeover PoC</title>
-    <style>
-        body { font-family: Arial; padding: 40px; }
-        h1 { color: #d5001c; }
-    </style>
-</head>
-<body>
-    <h1>Subdomain Takeover Proof of Concept</h1>
-    <p><strong>Vulnerability:</strong> api.porsche.com points to GitHub Pages but the repository doesn't exist</p>
-    <p><strong>Impact:</strong> An attacker can host malicious content on Porsche's subdomain</p>
-    <p><strong>PoC by:</strong> luci_lfer12</p>
-    <p><strong>Potential attacks:</strong></p>
-    <ul>
-        <li>Phishing pages</li>
-        <li>Stealing cookies via XSS</li>
-        <li>Hosting malware</li>
-        <li>Damaging brand reputation</li>
-    </ul>
-</body>
-</html>
+# Archived security research artifact
+
+This repository is retained as a historical security-research record.
+
+The original material concerned a reported GitHub Pages / subdomain-configuration issue. Operational exploit instructions, live-target details, credentials, and other actionable attack material are intentionally not published here.
+
+## Research hygiene
+
+- Test only systems you own or are explicitly authorized to assess.
+- Keep proof-of-concept work local and non-destructive.
+- Never publish credentials, tokens, private keys, or confidential disclosure material.
+- For third-party vulnerabilities, use the affected project's published security channel or bug-bounty process.
+
+This repository is an archive, not an active attack toolkit.
