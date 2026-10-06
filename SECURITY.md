@@ -1,4 +1,4 @@
-# Security Policy
+﻿# Security Policy
 
 This repository is an archived security-research record.
 

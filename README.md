@@ -1,4 +1,4 @@
-# Archived security research artifact
+﻿# Archived security research artifact
 
 This repository is retained as a historical security-research record.
 
